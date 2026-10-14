@@ -1,0 +1,6 @@
+{
+  "name": "IDX Cuan Simulator - Game Trading Saham Indonesia",
+  "description": "Simulasi game trading saham Bursa Efek Indonesia (BEI) interaktif dengan live order book, candlestick chart, aksi korporasi dividen/stock split, right issue (HMETD), dan sentimen berita pasar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
